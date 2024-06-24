@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 09-nextjs-database
 
-## Getting Started
+#### For Others Project, Please Visit: 
+https://github.com/mariafadilla15/Pemrograman-Berbasis-Framework.git
 
-First, run the development server:
+<br><br>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# **Laporan Praktikum - #09 Setup Database dan Fetching Data (API)**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+|  | Pemrograman Berbasis Framework 2024 |
+|--|--|
+| NIM |  2141720063|
+| Nama |  Maria Fadilla |
+| Kelas | TI - 3A |
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<br>
 
-## Learn More
+## **Praktikum 1: Setup Database**
+---
 
-To learn more about Next.js, take a look at the following resources:
+Menggunakan starter code yang sudah ada, lalu melakukan setup database dengan PostgreSQL menggunakan library @vercel/postgres. Langkah-langkahnya adalah berikut: 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Membuat project baru dengan template**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Membuat repo berdasarkan templat starter code ini: https://github.com/jti-polinema/09-nextjs-database kemudian beri nama repo: 09-nextjs-database pada akun GitHub.
 
-## Deploy on Vercel
+- **Membuat Akun Vercel**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Screenshot](assets-report/00.png)
